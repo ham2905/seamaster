@@ -1,0 +1,150 @@
+body{
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+}
+
+header{
+  background-color:white;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+#details1{
+  background-image: url("home.jpg");
+  background-size: cover;
+  margin: 0;
+  height: 650px;
+  top: 58px;
+  margin-bottom: 50px;
+
+
+}
+ #head1
+ {
+   text-align: center;
+   color: #345b83;
+   align:center;
+   font-size: 50px;
+   margin-top: 0;
+   margin-bottom: 0;
+   background-color: white;
+   opacity: 200%;
+   margin-left: 35%
+  }
+ h2{
+   text-align: center;
+   color: #0C1B31;
+   align:center;
+   font-size: 50px;
+   margin-top: 0;
+ }
+.center
+{
+  text-align: center;
+}
+.menubar
+{
+  background-color: black;
+  color: white;
+  margin-bottom:0;
+  margin-top:0;
+}
+
+.infoimg1{
+  margin-top: 50px;
+  margin-left: 35px;
+}
+
+#details001
+{
+  height: 400px;
+}
+#infotext1
+{
+  margin: 50px;
+}
+.tab
+{
+  width: 200px;
+  display: inline-block;
+}
+.input{
+  border-radius: 10px;
+  height: 40px;
+  width: 250px;
+  background: none;
+  font-size: 30px;
+  border: 2px solid black;
+  }
+  #button
+  {
+    border-radius: 10px;
+    background: none;
+    font-size: 30px;
+    background-color: skyblue;
+    border: 3px solid black;
+
+    height: 80px;
+    width: 250px;
+  }
+
+  .imgb
+  {
+    border: 2px solid black;
+  }
+  .entry
+  {
+    font-size: 30px;
+
+  }
+
+footer{
+  background-color: #888;
+}
+#footmar{
+  margin-top:  0;
+  padding-top: 10px;
+}
+#headdiv
+{
+  background-color:
+  margin0;
+
+}
+#contact
+{
+  margin-left: 25%;
+  position: absolute;
+  margin-bottom: 20%;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 10px;
+  width: 60px;
+  margin-top: 25px;
+  color: white;
+  text-align: center;
+
+}
+ .img123
+ {
+   margin-left:15%;
+   margin-bottom: 20px;
+   margin-top: 40px;
+   opacity: 1.5;
+ }
+
+#con1
+{
+  margin-bottom: 0;
+}
+.colmat{
+  background-color: #ddd;
+  margin: 0;
+}
+.nothin
+{
+  margin-top: 150px;
+  margin-bottom: 30px;
+
+}
